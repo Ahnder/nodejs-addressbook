@@ -1,0 +1,9 @@
+
+.contact h2 {
+    color: antiquewhite;
+}
+
+.contact .contact-form label {
+    display: inline-block;
+    width: 70px;
+}
